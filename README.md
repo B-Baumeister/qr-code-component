@@ -10,7 +10,6 @@ This is MY solution to the [QR code component challenge on Frontend Mentor](http
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
@@ -23,11 +22,6 @@ This is MY solution to the [QR code component challenge on Frontend Mentor](http
 ![Mobile](./images/Screenshot%20solution%20mobile.png)
 ![Desktop](./images/Screenshot%20solution%20desktop.png)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
