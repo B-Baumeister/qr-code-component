@@ -10,7 +10,7 @@ This is MY solution to the [QR code component challenge on Frontend Mentor](http
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
-  - [My process](#my-process)
+  - [My solution online](#my-solution-online)
     - [Built with](#built-with)
   - [Author](#author)
 
@@ -23,7 +23,10 @@ This is MY solution to the [QR code component challenge on Frontend Mentor](http
 ![Desktop](./images/Screenshot%20solution%20desktop.png)
 
 
-## My process
+## My solution online
+
+[Please visit my vercel page] (https://qr-code-component-six-gilt.vercel.app/)
+
 
 ### Built with
 
