@@ -25,7 +25,7 @@ This is MY solution to the [QR code component challenge on Frontend Mentor](http
 
 ## My solution online
 
-[Please visit my vercel page] (https://qr-code-component-six-gilt.vercel.app/)
+[Please visit my vercel page](https://qr-code-component-six-gilt.vercel.app/)
 
 
 ### Built with
